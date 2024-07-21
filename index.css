@@ -33,6 +33,25 @@ button {
   cursor: pointer;
   font-weight: bold;
 }
+button:hover {
+  background-color: #3b6a2b;
+}
+
+#delete-btn {
+  background-color: #b53b3b;
+  
+
+}
+#delete-btn:hover {
+  background-color: #921b1b;
+}
+
+#tab-btn{
+  background-color: #473689;
+}
+#tab-btn:hover{
+  background-color: #280b78;
+}
 
 /* STYLE THE LIST ACCORDING TO THE DESIGN */
 ul {
